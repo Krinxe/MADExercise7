@@ -16,6 +16,8 @@
         android:layout_marginBottom="8dp"
         android:ems="10"
         android:inputType="textPersonName"
+        android:hint="the text you want"
+
         app:layout_constraintBottom_toTopOf="@+id/editText2"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
